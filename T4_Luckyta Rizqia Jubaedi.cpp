@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     string namaBarang, namaPelanggan1, namaPelanggan2;
-    int beli, pembandingan;
+    int beli;
     double harga = 0; 
     cout << "==================================================\n";
     cout << "Program membandingkan jumlah belanja 2 pelanggan\n";
